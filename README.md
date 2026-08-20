@@ -43,7 +43,7 @@ Make sure you have the following installed:
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Deepanshu-Khandelwal/Boutique
    cd boutique
    ```
 
